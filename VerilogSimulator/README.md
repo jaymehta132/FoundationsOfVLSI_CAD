@@ -14,14 +14,7 @@ This project is a Python-based Verilog simulator that utilizes Yosys to convert 
 
 ## Installation
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/verilog-simulator.git
-   cd verilog-simulator
-   ```
-
-2. **Install required Python packages**:
+1. **Install required Python packages**:
 
    ```bash
    pip install -r requirements.txt
@@ -29,7 +22,7 @@ This project is a Python-based Verilog simulator that utilizes Yosys to convert 
 
    (Ensure you include a `requirements.txt` file with the necessary Python dependencies, if any.)
 
-3. **Install Yosys**:
+2. **Install Yosys**:
 
    You can install Yosys following the instructions on its [official website](https://yosyshq.net/yosys/).
 
